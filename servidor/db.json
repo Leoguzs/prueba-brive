@@ -1,0 +1,25 @@
+{
+  "empleados": [
+    {
+      "id": "e0f2f1d2-fb86-4ddd-a660-cb94b9b2cf99",
+      "fullName": "Michael Scott",
+      "phone": "3434556",
+      "imageLink": "https://imagenes.elpais.com/resizer/chKCbCF2vAsg-ocin7kw-Yq97zE=/1200x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/BGRBZZZN6LLKZRU6FHJ6DUDI6Y.jpg",
+      "email": "bestboss@gmail.com"
+    },
+    {
+      "id": "0d9a5f04-da3a-4130-9c74-8557f0149f99",
+      "fullName": "Pam Beesly",
+      "phone": "3434556",
+      "imageLink": "https://bolavip.com/__export/1602104106041/sites/bolavip/img/2020/10/07/the_office_pam_beesly_jenna_fischer_crop1602104105493.jpg_242310155.jpg",
+      "email": "pambee@gmail.com"
+    },
+    {
+      "id": "b92770cb-1613-494a-a1d4-b793fd2fb8f9",
+      "fullName": "Daryl Phillibin",
+      "phone": "55238887",
+      "email": "storagedaryl@gmail.com",
+      "imageLink": "https://www.looper.com/img/gallery/what-craig-robinson-has-been-doing-since-playing-darryl-on-the-office/intro-1574368248.jpg"
+    }
+  ]
+}
